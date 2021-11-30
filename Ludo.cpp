@@ -9,7 +9,7 @@ int fontType;
 void *font;
 
 int f1,f2,g1,g2,k1,k2,l1,l2,ply1,ply2,h1,h2,h3,h4,s1,s2,u,v,r1,op,w,dice1,enter;
-
+//ludo
 
 int i,ch1,ch,p1,p2,ra1,z,z1,za1;
 
